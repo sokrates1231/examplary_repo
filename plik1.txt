@@ -3,4 +3,5 @@ Linijka 2
 Linijka 3
 Linijka 4 (hotfix)
 Linijka 5 (hotfix)
-Linijka 6 (master)
+Linijka 6 (master i hotfix)
+
